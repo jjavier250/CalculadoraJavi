@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CalculadoraJavi</string>
+    <string name="Boton_calcular_IMC">Calcular IMC</string><!--añadimos los valores para el idioma es con @ en el xml del diseño -->
 </resources>
